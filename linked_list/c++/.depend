@@ -1,2 +1,0 @@
-linkedlist.o: linkedlist.cpp linkedlist.hpp
-main.o: main.cpp linkedlist.hpp
